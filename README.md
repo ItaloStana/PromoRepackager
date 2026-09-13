@@ -1,6 +1,6 @@
-# PromoRepackager ⚡
+# PromoRepackager(Microsserviço) ⚡
 
-Microsserviço em .NET 8 projetado para capturar ofertas brutas de grupos de achadinhos no WhatsApp, higienizar o conteúdo removendo dados de terceiros, validar o preço real no e-commerce, renderizar artes para Stories em memória e entregar tudo pronto no Telegram com link de afiliado.
+O PromoRepackager funciona como um caçador de promoções automatizado: ele escuta mensagens em grupos de achadinhos no WhatsApp, faz o scraping da Amazon e Mercado Livre para validar se o preço anunciado é real, limpa o texto com o Gemini e desenha cards 9:16 prontos para postar nos Stories, entregando tudo no Telegram com o seu link de afiliado.
 
 ---
 
