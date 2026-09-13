@@ -7,14 +7,7 @@ publish/
 dist/
 
 ## 2. Banco de Dados SQLite & Arquivos de Dados Locais
-Data/*.db
-Data/*.db-shm
-Data/*.db-wal
-Data/*.sqlite
-Data/*.sqlite3
-Data/*.json
-*.db
-*.sqlite
+Data/
 
 ## 3. IDEs e Editores (Visual Studio, VS Code, Rider)
 .vs/
