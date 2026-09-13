@@ -1,0 +1,38 @@
+## 1. Compilação e Binários (.NET)
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+publish/
+dist/
+
+## 2. Banco de Dados SQLite & Arquivos de Dados Locais
+Data/*.db
+Data/*.db-shm
+Data/*.db-wal
+Data/*.sqlite
+Data/*.sqlite3
+Data/*.json
+*.db
+*.sqlite
+
+## 3. IDEs e Editores (Visual Studio, VS Code, Rider)
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## 4. Arquivos de Ambiente & Segredos
+*.env
+*.env.local
+*.env.*.local
+appsettings.json
+
+## 5. Sistema Operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
